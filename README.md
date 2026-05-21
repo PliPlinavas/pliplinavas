@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PliPlinavas/pliplinavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="250"/>
 
-Here are some ideas to get you started:
+# 👨‍💻 Olá, eu sou André
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Estudando Python  
+### 🚀 Apaixonado por tecnologia e programação
+
+</div>
+
+---
+
+# 💚 Sobre mim
+
+```python
+class SobreMim:
+    nome = "Gabriel"
+    linguagem = "Python"
+    foco = ["Automação", "Bots", "Projetos"]
+    aprendendo = "Todos os dias 🚀"
